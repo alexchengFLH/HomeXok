@@ -1904,6 +1904,7 @@
 		F3A0FB3BD04C582E655168D0 /* Pods-Tests-App.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Tests-App.release.xcconfig"; path = "Pods/Target Support Files/Pods-Tests-App/Pods-Tests-App.release.xcconfig"; sourceTree = "<group>"; };
 		F3E55AA06795782F04D0B261 /* Pods-iOS-Extensions-Intents.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-iOS-Extensions-Intents.release.xcconfig"; path = "Pods/Target Support Files/Pods-iOS-Extensions-Intents/Pods-iOS-Extensions-Intents.release.xcconfig"; sourceTree = "<group>"; };
 		F534C18A6FD4884F258341C9 /* Pods-iOS-Shared-iOS.beta.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-iOS-Shared-iOS.beta.xcconfig"; path = "Pods/Target Support Files/Pods-iOS-Shared-iOS/Pods-iOS-Shared-iOS.beta.xcconfig"; sourceTree = "<group>"; };
+		FA3E5015274CC52B00E6DBDD /* HomeAssistant.overrides.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = HomeAssistant.overrides.xcconfig; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -2735,6 +2736,7 @@
 		9C4E5E20229D97FA0044C8EC /* Configuration */ = {
 			isa = PBXGroup;
 			children = (
+				FA3E5015274CC52B00E6DBDD /* HomeAssistant.overrides.xcconfig */,
 				11AF1EC52528FB2300AAE364 /* Entitlements */,
 				118A93322520411100227076 /* Version.xcconfig */,
 				9C4E5E27229D992A0044C8EC /* HomeAssistant.xcconfig */,
